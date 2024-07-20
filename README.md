@@ -1,6 +1,6 @@
 # JSP-Database-Integration Project
 
-![JSP Database Integration](insert-image-url-here)
+![JSP Database Integration]
 
 **Project Overview**: This project demonstrates a web application using JSP (JavaServer Pages) for database integration with MySQL, deployed on Apache Tomcat.
 
